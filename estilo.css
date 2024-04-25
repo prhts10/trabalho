@@ -1,0 +1,20 @@
+body {
+    color:white;
+    background-image: url(digital-binary-code-tunnel-background-free-video.jpg);
+    font: normal 18pt arial;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
