@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    color: white;
+    background-image: url(./fundo.gif);
+    font: normal 18pt arial;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+img {
+    width: 500px;
+    border-radius: 10px;
+    margin: 30px 40%;
+ }
+ h1 {
+    color: rgb(160, 9, 206);
+    text-align: center;
+ }
+ h2 {
+    color: rgb(160, 9, 206);
+ }
+ .ff {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    border: 3px 20px black;
+    width: 36%;
+ }
+ .ht {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    border: 3px 20px black;
+    width: 45%;
+ }
+ .cs {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    border: 3px 20px black;
+    width: 8%;
+ }
