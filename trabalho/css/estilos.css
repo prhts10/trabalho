@@ -1,16 +1,18 @@
 body {
     background-color: rgb(0, 0, 0);
     font-size: 2rem;
-    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230416/pngtree-basketball-ball-sports-minimalist-blood-background-image_2269454.jpg);
+    background-image: url(https://static7.depositphotos.com/1263295/750/i/450/depositphotos_7505353-stock-photo-basketball-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 
 header {
     margin: 0  ;
     background-color: rgb(255, 160, 36);
-    height: 170px;
+    height: 280px;
     padding: 0;
-    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(0, 0, 0));
+    background-image: linear-gradient(to bottom, rgb(233, 102, 16), rgb(0, 0, 0));
 }
 .img-container {
     text-align: center;
@@ -41,12 +43,12 @@ section > li {
     width: 15%;
     margin: 1% 5% 2%;
     text-align: center;
-    border: 3px solid black;
+    border: 3px solid rgb(255, 136, 0);
     flex-direction: column;
     justify-content: flex-end;
     display: flex;
     align-items: center;
-    box-shadow: 3px 2px 2px black, 6px 5px 6px rgb(51, 51, 51);
+    box-shadow: 3px 2px 2px rgb(255, 102, 0), 6px 5px 6px rgb(51, 51, 51);
 }
 ul li {
     display: inline-block;
