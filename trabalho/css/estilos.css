@@ -1,18 +1,17 @@
 body {
     background-color: rgb(0, 0, 0);
     font-size: 2rem;
-    background-image: url(https://static7.depositphotos.com/1263295/750/i/450/depositphotos_7505353-stock-photo-basketball-background.jpg);
+    background-image: url(https://previews.123rf.com/images/arfiansyah/arfiansyah2203/arfiansyah220300025/183692666-design-de-fundo-de-conceito-de-basquete-com-efeito-de-fogo-timo-para-p%C3%B4ster-flyer-banner-e-muito.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     
 }
-
 header {
     margin: 0  ;
-    background-color: rgb(255, 160, 36);
+    background-color: rgb(0, 0, 0);
     height: 280px;
     padding: 0;
-    background-image: linear-gradient(to bottom, rgb(233, 102, 16), rgb(0, 0, 0));
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgb(0, 0, 0));
 }
 .img-container {
     text-align: center;
@@ -32,7 +31,7 @@ section {
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0));
 }
 section > li {
-    border: 3px solid black;
+    border: 3px solid rgb(255, 255, 255);
 }
 .freefa {
     display: flex;
@@ -43,12 +42,12 @@ section > li {
     width: 15%;
     margin: 1% 5% 2%;
     text-align: center;
-    border: 3px solid rgb(255, 136, 0);
+    border: 3px solid rgb(255, 255, 255);
     flex-direction: column;
     justify-content: flex-end;
     display: flex;
     align-items: center;
-    box-shadow: 3px 2px 2px rgb(255, 102, 0), 6px 5px 6px rgb(51, 51, 51);
+    box-shadow: 3px 2px 2px rgb(255, 255, 255), 6px 5px 6px rgb(51, 51, 51);
 }
 .estilo-camisa-preto{
     width: 300px;
@@ -78,7 +77,7 @@ nav > ul > li {
 }
 nav > ul > li > a {
     text-decoration: none;
-    color: rgb(255, 154, 22);
+    color: rgb(255, 255, 255);
     line-height: 2.5rem;
     font-size: 1.5rem;
     transition: all 300ms;
@@ -86,7 +85,7 @@ nav > ul > li > a {
 }
 nav > ul > li > a:hover {
     font-size: 1.8rem;
-    color: rgb(255, 102, 0);
+    color: rgb(0, 0, 0);
     transition: all 500ms;
 }
 footer > p {
@@ -108,7 +107,7 @@ tr:nth-child(even) {
 }
 tr:nth-child(odd) {
     background-color: white;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 td {
 
